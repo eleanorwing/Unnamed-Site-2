@@ -1,0 +1,97 @@
+@charset "UTF-8";
+h1{
+	font-family: "Gotham Bold", "Helvetica Neue", sans-serif;
+	font-size: 2.0;
+	margin-left: 11%;
+	margin-top: 6%;
+	display: inline;
+}
+hr{
+	border-width: 2pt;
+	border-style: solid;
+	margin-right: auto;
+	margin-left: 7%;
+	width: 65%;
+}
+h2{
+	font-family: "Gotham Light", "Helvetica Neue", sans-serif;
+	font-size: 10px;
+}
+h2.description{
+	float: right;
+	width: 20%;
+	display: block;
+	margin-left: 65%;
+	margin-right: auto;
+	position: fixed;
+	font-size: 14px;
+	margin-top: 5%;
+}
+h1.label{
+	display: inline-block;
+	padding: none;
+	margin-left: 73%;
+	margin-top: -15%;
+}
+ul {
+    list-style-type: none;
+	padding: 2pt;
+	line-height: 1pt;
+}
+li{
+	float: left;
+	margin-left: 11pt;
+	margin-right: 11pt;
+}
+.nav{
+	margin-left: 4%;
+	display: inline-block;
+}
+IMG{
+	padding: 1.2%;
+}
+IMG:hover{
+	opacity: 0.5;
+}
+.firstrow{
+	margin: auto;
+	width: 60%;
+	}
+IMG.macbeth, IMG.orbit{
+	max-height: 310pt;
+}
+
+IMG.brand{
+	max-width: 39%;
+	margin: auto;
+	display: block;
+}
+IMG.directors{
+	display: block;
+	max-width: 60%;
+	margin: auto;
+}
+
+IMG.montserrat{
+	max-width: 453pt;
+	margin: auto;
+	display: block;
+} 
+hr.divide{
+	width: 52%;
+	margin-left: auto;
+	margin-right: auto;	
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	font-family: "Gotham Bold", sans-serif
+}
+img.largework{
+	width: 50%;
+	display: block;
+	margin-left: 10%;
+	float: left;
+}
