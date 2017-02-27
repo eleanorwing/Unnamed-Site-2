@@ -95,3 +95,6 @@ img.largework{
 	margin-left: 10%;
 	float: left;
 }
+img.largework:hover{
+	opacity: 1;
+}
